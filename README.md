@@ -1,2 +1,2 @@
 # myPic
-主要存放论文中所用到的80张随机地图
+Mainly stores the 80 random maps used in the paper.
